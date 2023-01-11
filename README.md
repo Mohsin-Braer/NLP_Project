@@ -1,4 +1,4 @@
-# Natural Langauge Processing Final Project
+# Natural Language Processing Final Project
 
 Repository for NLP Final Project related to Hate-Speech Classification.
 
